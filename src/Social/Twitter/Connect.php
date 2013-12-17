@@ -1,0 +1,2 @@
+<?php
+// Twitter Initialization

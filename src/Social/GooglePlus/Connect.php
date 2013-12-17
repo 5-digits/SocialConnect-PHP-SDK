@@ -1,0 +1,2 @@
+<?php
+//Google Plus Initialization
